@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suyash503/nodejs_basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suyash503/nodejs_basics/issues"
+  },
+  "homepage": "https://github.com/suyash503/nodejs_basics#readme",
+  "description": ""
+}
