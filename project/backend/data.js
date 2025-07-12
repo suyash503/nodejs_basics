@@ -3,4 +3,7 @@ const menu = [
     { id: 2, name: 'paneer do pyaza', price: '200' },
     { id: 3, name: 'shahi paneer', price: '600' },
     { id: 4, name: 'afghani chaap', price: '300' },
-]
+];
+
+const orders = [];
+module.exports = { menu, orders };
